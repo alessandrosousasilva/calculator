@@ -1,16 +1,38 @@
-# calculadora_simples
+# 📱 Calculadora Simples em Flutter
 
-A new Flutter project.
+Uma calculadora básica desenvolvida com **Flutter e Dart**, com foco em praticar os conceitos fundamentais da linguagem e do framework.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-Calculator-green)
+![Dart](https://img.shields.io/badge/Dart-Practice-blue)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Entrada de dois números
+- Operações básicas: adição, subtração, multiplicação e divisão
+- Interface moderna com cores personalizadas
+- Design responsivo e amigável
+- Cálculo em tempo real com exibição do resultado
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Objetivo
+
+Projeto criado para fins **educacionais**, como forma de **praticar conceitos básicos** de:
+- Widgets (TextField, Button, Row, Column, Wrap)
+- Controle de estado com `StatefulWidget`
+- Manipulação de dados com `TextEditingController`
+- Estrutura condicional (`switch`)
+- Design de interface no estilo Material Design
+
+---
+
+## 🛠️ Tecnologias
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- Visual Studio Code ou Android Studio
+- Dispositivos Android ou emuladores
+
+---
